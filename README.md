@@ -1,7 +1,9 @@
 
 # Data Structures and Algorithms Specialization
 
-By UC San Diego (University of California San Diego), on Coursera (https://www.coursera.org/specializations/data-structures-algorithms)
+By UC San Diego (University of California San Diego), on Coursera 
+
+(https://www.coursera.org/specializations/data-structures-algorithms)
 
 
 ## What's this about?
