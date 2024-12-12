@@ -10,7 +10,6 @@ long long pisano(long long m) {
         long long temp = f[1];
         f[1] = (f[0] + f[1])%m;
         f[0] = temp;
- 
         if (f[0] == 0 && f[1] == 1) {
             res = i+1;
             break;
