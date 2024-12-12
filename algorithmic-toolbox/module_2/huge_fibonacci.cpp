@@ -2,8 +2,7 @@
 
 using namespace std;
 
-long long pisano(long long m)
-{
+long long pisano(long long m) {
     long long f[2],res=0;
     f[0] = 0;
     f[1] = 1;

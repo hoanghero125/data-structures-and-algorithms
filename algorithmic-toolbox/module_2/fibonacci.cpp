@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int fib(int n) {
-	vector<long long> f(n);
+long long fib(int n) {
+	vector<long long> f(n+5);
 	f[0] = 0;
 	f[1] = 1;
 	for (int i=2;i<=n;i++)

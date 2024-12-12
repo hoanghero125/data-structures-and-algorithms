@@ -3,7 +3,8 @@
 using namespace std;
 
 int fibLastDigit(int n) {
-	vector<int> f(n);
+	n%=60;
+	vector<int> f(n+5);
 	f[0] = 0;
 	f[1] = 1;
 	for (int i=2;i<=n;i++)
