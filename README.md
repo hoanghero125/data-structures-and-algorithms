@@ -8,7 +8,7 @@ By UC San Diego (University of California San Diego), on Coursera
 
 ## What's this about?
 
-Just me on my own journey of completing this course. All of the contents in this repo are my own solutions (AC) of the coding problems throughout this course, written in C++. 
+Just me on my own journey of completing this course. All of the contents in this repo are my own solutions (AC) of the coding problems (no quiz) throughout this course, written in C++. 
 
 You can take them as references, however, I highly recommend trying to solve the problems by yourself first, since using my code to pass the course will not improve your coding skills or your knowledge in Computer Science major.
 
